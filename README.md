@@ -1,14 +1,14 @@
 <h1>Andrew Weller- Demonstration and usage of osTicket</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of installing, seting up, and demonstrating osTicket. I will show how it was setup and then show the process of working through and resolving tickets.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Microsoft azure Virtual machine</b> 
+- <b>osTicket</b>
 
 <h2>Environments Used </h2>
 
